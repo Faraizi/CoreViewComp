@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sahad\\Desktop\\BankViewComp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCCBFE5-DBEE-453D-BB84-E5E82DD68F23}|BankViewComp\\BankViewComp.csproj|c:\\users\\sahad\\desktop\\bankviewcomp\\bankviewcomp\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDCCBFE5-DBEE-453D-BB84-E5E82DD68F23}|BankViewComp\\BankViewComp.csproj|solutionrelative:bankviewcomp\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCCBFE5-DBEE-453D-BB84-E5E82DD68F23}|BankViewComp\\BankViewComp.csproj|c:\\users\\sahad\\desktop\\bankviewcomp\\bankviewcomp\\views\\account\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDCCBFE5-DBEE-453D-BB84-E5E82DD68F23}|BankViewComp\\BankViewComp.csproj|solutionrelative:bankviewcomp\\views\\account\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCCBFE5-DBEE-453D-BB84-E5E82DD68F23}|BankViewComp\\BankViewComp.csproj|c:\\users\\sahad\\desktop\\bankviewcomp\\bankviewcomp\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDCCBFE5-DBEE-453D-BB84-E5E82DD68F23}|BankViewComp\\BankViewComp.csproj|solutionrelative:bankviewcomp\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCCBFE5-DBEE-453D-BB84-E5E82DD68F23}|BankViewComp\\BankViewComp.csproj|c:\\users\\sahad\\desktop\\bankviewcomp\\bankviewcomp\\views\\account\\_addaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDCCBFE5-DBEE-453D-BB84-E5E82DD68F23}|BankViewComp\\BankViewComp.csproj|solutionrelative:bankviewcomp\\views\\account\\_addaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCCBFE5-DBEE-453D-BB84-E5E82DD68F23}|BankViewComp\\BankViewComp.csproj|c:\\users\\sahad\\desktop\\bankviewcomp\\bankviewcomp\\views\\account\\components\\accountwithcustomers\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDCCBFE5-DBEE-453D-BB84-E5E82DD68F23}|BankViewComp\\BankViewComp.csproj|solutionrelative:bankviewcomp\\views\\account\\components\\accountwithcustomers\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCCBFE5-DBEE-453D-BB84-E5E82DD68F23}|BankViewComp\\BankViewComp.csproj|c:\\users\\sahad\\desktop\\bankviewcomp\\bankviewcomp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDCCBFE5-DBEE-453D-BB84-E5E82DD68F23}|BankViewComp\\BankViewComp.csproj|solutionrelative:bankviewcomp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "BankViewComp\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "BankViewComp\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T17:38:34.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\Views\\Account\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BankViewComp\\Views\\Account\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\Views\\Account\\Delete.cshtml",
+              "RelativeToolTip": "BankViewComp\\Views\\Account\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T17:38:32.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\Views\\Account\\Components\\AccountWithCustomers\\Default.cshtml",
+              "RelativeDocumentMoniker": "BankViewComp\\Views\\Account\\Components\\AccountWithCustomers\\Default.cshtml",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\Views\\Account\\Components\\AccountWithCustomers\\Default.cshtml",
+              "RelativeToolTip": "BankViewComp\\Views\\Account\\Components\\AccountWithCustomers\\Default.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T17:28:22.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_AddAccount.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\Views\\Account\\_AddAccount.cshtml",
+              "RelativeDocumentMoniker": "BankViewComp\\Views\\Account\\_AddAccount.cshtml",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\Views\\Account\\_AddAccount.cshtml",
+              "RelativeToolTip": "BankViewComp\\Views\\Account\\_AddAccount.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T17:28:07.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "BankViewComp\\Views\\Account\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "BankViewComp\\Views\\Account\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T17:27:33.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\Program.cs",
+              "RelativeDocumentMoniker": "BankViewComp\\Program.cs",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\Program.cs",
+              "RelativeToolTip": "BankViewComp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:07:46.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

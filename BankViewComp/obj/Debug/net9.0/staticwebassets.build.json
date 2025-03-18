@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Nk8b38VsgZqQs3LxqJUpfaIWesoOUEzJOElOBMYS998=",
+  "Hash": "SKWSq5tycgxEFpFpxvMu6WkORWoyTPxoBoD+Ve173qA=",
   "Source": "BankViewComp",
   "BasePath": "_content/BankViewComp",
   "Mode": "Default",
@@ -1508,6 +1508,27 @@
       "OriginalItemSpec": "wwwroot\\images\\1993-Aston-Martin-V8-Vantage-V550-004-2160.jpg"
     },
     {
+      "Identity": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\wwwroot\\images\\2007-Volkswagen-GTI-W12-Concept-003-1080.jpg",
+      "SourceId": "BankViewComp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\wwwroot\\",
+      "BasePath": "_content/BankViewComp",
+      "RelativePath": "images/2007-Volkswagen-GTI-W12-Concept-003-1080#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vj925zdcg2",
+      "Integrity": "2/1cPUdflzATMZ0/awKpiA/8HCCdJg+GaxjwUqZf2Es=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2007-Volkswagen-GTI-W12-Concept-003-1080.jpg"
+    },
+    {
       "Identity": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\wwwroot\\images\\Image_not_available.png",
       "SourceId": "BankViewComp",
       "SourceType": "Discovered",
@@ -1527,6 +1548,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Image_not_available.png"
+    },
+    {
+      "Identity": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\wwwroot\\images\\Screenshot 2025-03-18 232255.png",
+      "SourceId": "BankViewComp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\wwwroot\\",
+      "BasePath": "_content/BankViewComp",
+      "RelativePath": "images/Screenshot 2025-03-18 232255#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q59jilrirb",
+      "Integrity": "HqsIsAo7c5ByRDH/r+8HM7xYjmqhBqe9hXSTApuTzkw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Screenshot 2025-03-18 232255.png"
+    },
+    {
+      "Identity": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\wwwroot\\images\\Screenshot 2025-03-18 232337.png",
+      "SourceId": "BankViewComp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\wwwroot\\",
+      "BasePath": "_content/BankViewComp",
+      "RelativePath": "images/Screenshot 2025-03-18 232337#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "db1znrxoue",
+      "Integrity": "lztN8vEWWkuB+sEgIiQqNyQJGXRG7V3k5zDEBKenFqI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Screenshot 2025-03-18 232337.png"
     },
     {
       "Identity": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\wwwroot\\js\\site.js",
@@ -4250,6 +4313,88 @@
       ]
     },
     {
+      "Route": "images/2007-Volkswagen-GTI-W12-Concept-003-1080.jpg",
+      "AssetFile": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\wwwroot\\images\\2007-Volkswagen-GTI-W12-Concept-003-1080.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "318894"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2/1cPUdflzATMZ0/awKpiA/8HCCdJg+GaxjwUqZf2Es=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 20:50:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2/1cPUdflzATMZ0/awKpiA/8HCCdJg+GaxjwUqZf2Es="
+        }
+      ]
+    },
+    {
+      "Route": "images/2007-Volkswagen-GTI-W12-Concept-003-1080.vj925zdcg2.jpg",
+      "AssetFile": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\wwwroot\\images\\2007-Volkswagen-GTI-W12-Concept-003-1080.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "318894"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2/1cPUdflzATMZ0/awKpiA/8HCCdJg+GaxjwUqZf2Es=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 20:50:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vj925zdcg2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2007-Volkswagen-GTI-W12-Concept-003-1080.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2/1cPUdflzATMZ0/awKpiA/8HCCdJg+GaxjwUqZf2Es="
+        }
+      ]
+    },
+    {
       "Route": "images/Image_not_available.hb62k4i6or.png",
       "AssetFile": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\wwwroot\\images\\Image_not_available.png",
       "Selectors": [],
@@ -4328,6 +4473,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-g69qQUe3nczyqdTmeV5+/8Tul4IzMcWeFRjIEiAwhh4="
+        }
+      ]
+    },
+    {
+      "Route": "images/Screenshot 2025-03-18 232255.png",
+      "AssetFile": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\wwwroot\\images\\Screenshot 2025-03-18 232255.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "530216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HqsIsAo7c5ByRDH/r+8HM7xYjmqhBqe9hXSTApuTzkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 17:33:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HqsIsAo7c5ByRDH/r+8HM7xYjmqhBqe9hXSTApuTzkw="
+        }
+      ]
+    },
+    {
+      "Route": "images/Screenshot 2025-03-18 232255.q59jilrirb.png",
+      "AssetFile": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\wwwroot\\images\\Screenshot 2025-03-18 232255.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "530216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HqsIsAo7c5ByRDH/r+8HM7xYjmqhBqe9hXSTApuTzkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 17:33:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q59jilrirb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Screenshot 2025-03-18 232255.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HqsIsAo7c5ByRDH/r+8HM7xYjmqhBqe9hXSTApuTzkw="
+        }
+      ]
+    },
+    {
+      "Route": "images/Screenshot 2025-03-18 232337.db1znrxoue.png",
+      "AssetFile": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\wwwroot\\images\\Screenshot 2025-03-18 232337.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "977291"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lztN8vEWWkuB+sEgIiQqNyQJGXRG7V3k5zDEBKenFqI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 17:30:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "db1znrxoue"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Screenshot 2025-03-18 232337.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lztN8vEWWkuB+sEgIiQqNyQJGXRG7V3k5zDEBKenFqI="
+        }
+      ]
+    },
+    {
+      "Route": "images/Screenshot 2025-03-18 232337.png",
+      "AssetFile": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\wwwroot\\images\\Screenshot 2025-03-18 232337.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "977291"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lztN8vEWWkuB+sEgIiQqNyQJGXRG7V3k5zDEBKenFqI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 17:30:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lztN8vEWWkuB+sEgIiQqNyQJGXRG7V3k5zDEBKenFqI="
         }
       ]
     },

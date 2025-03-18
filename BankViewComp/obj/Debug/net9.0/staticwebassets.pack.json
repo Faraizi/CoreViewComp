@@ -25,8 +25,20 @@
       "PackagePath": "staticwebassets\\images\\1993-Aston-Martin-V8-Vantage-V550-004-2160.jpg"
     },
     {
+      "Id": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\wwwroot\\images\\2007-Volkswagen-GTI-W12-Concept-003-1080.jpg",
+      "PackagePath": "staticwebassets\\images\\2007-Volkswagen-GTI-W12-Concept-003-1080.jpg"
+    },
+    {
       "Id": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\wwwroot\\images\\Image_not_available.png",
       "PackagePath": "staticwebassets\\images\\Image_not_available.png"
+    },
+    {
+      "Id": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\wwwroot\\images\\Screenshot 2025-03-18 232255.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2025-03-18 232255.png"
+    },
+    {
+      "Id": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\wwwroot\\images\\Screenshot 2025-03-18 232337.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2025-03-18 232337.png"
     },
     {
       "Id": "C:\\Users\\sahad\\Desktop\\BankViewComp\\BankViewComp\\wwwroot\\js\\site.js",

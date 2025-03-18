@@ -327,3 +327,4 @@ C:\Users\sahad\Desktop\BankViewComp\BankViewComp\obj\Debug\net9.0\BankViewComp.c
 C:\Users\sahad\Desktop\BankViewComp\BankViewComp\obj\Debug\net9.0\BankView.ABA20999.Up2Date
 C:\Users\sahad\Desktop\BankViewComp\BankViewComp\obj\Debug\net9.0\compressed\309aec4opx-8vizuqfvvc.gz
 C:\Users\sahad\Desktop\BankViewComp\BankViewComp\obj\Debug\net9.0\compressed\osq6jmmqgb-a0quhe3n9y.gz
+C:\Users\sahad\Desktop\BankViewComp\BankViewComp\obj\Debug\net9.0\BankViewComp.sourcelink.json

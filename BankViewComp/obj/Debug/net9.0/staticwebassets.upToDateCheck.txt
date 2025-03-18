@@ -65,7 +65,10 @@ wwwroot\favicon.ico
 wwwroot\images\1000074344.jpg
 wwwroot\images\1993-Aston-Martin-V8-Vantage-V550-003-2160.jpg
 wwwroot\images\1993-Aston-Martin-V8-Vantage-V550-004-2160.jpg
+wwwroot\images\2007-Volkswagen-GTI-W12-Concept-003-1080.jpg
 wwwroot\images\Image_not_available.png
+wwwroot\images\Screenshot 2025-03-18 232255.png
+wwwroot\images\Screenshot 2025-03-18 232337.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
